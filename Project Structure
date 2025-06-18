@@ -1,0 +1,7 @@
+local_chatbot/
+├── model_loader.py        
+├── chat_memory.py         
+├── interface.py           
+├── requirements.txt       
+├── README.md              
+└── demo_video.mp4        
