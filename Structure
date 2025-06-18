@@ -1,0 +1,29 @@
+model_loader.py: Model and tokenizer loader.
+
+chat_memory.py: Sliding memory buffer.
+
+interface.py: CLI loop and integration.
+
+---
+
+ 📹 Demo Video (What to Record)
+1. Show directory and explain each Python file briefly.
+2. Open each file, explain key parts.
+3. Run `interface.py`, demo live conversation.
+4. Talk about:
+   - Why `distilgpt2` (lightweight, local)
+   - Sliding memory for coherence
+   - Prompt engineering via context prefixing
+5. End within 3 minutes.
+
+---
+
+✅ Submission Checklist
+✔ Modular, clean Python scripts  
+✔ Sliding window memory buffer  
+✔ CLI chatbot with graceful exit  
+✔ Readable README with setup & example  
+✔ Optional demo video explaining code  
+✔ No cloud API dependency (runs locally)  
+
+
