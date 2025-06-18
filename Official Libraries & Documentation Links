@@ -1,0 +1,7 @@
+Purpose	Link
+Hugging Face Transformers Library	                          https://huggingface.co/docs/transformers
+DistilGPT-2 Model (small, lightweight GPT-2)	              https://huggingface.co/distilgpt2
+Full GPT-2 Model (if you want)	                            https://huggingface.co/gpt2
+PyTorch (backend for Transformers)	                        https://pytorch.org/get-started/locally/
+Official Hugging Face Pipeline Docs	                        https://huggingface.co/docs/transformers/main_classes/pipelines
+Tokenizers Library (used internally)                       https://huggingface.co/docs/tokenizers
